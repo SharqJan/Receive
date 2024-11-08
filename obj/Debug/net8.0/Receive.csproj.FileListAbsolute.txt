@@ -1,0 +1,17 @@
+C:\Users\Afridah\source\repos\Receive\bin\Debug\net8.0\Receive.exe
+C:\Users\Afridah\source\repos\Receive\bin\Debug\net8.0\Receive.deps.json
+C:\Users\Afridah\source\repos\Receive\bin\Debug\net8.0\Receive.runtimeconfig.json
+C:\Users\Afridah\source\repos\Receive\bin\Debug\net8.0\Receive.dll
+C:\Users\Afridah\source\repos\Receive\bin\Debug\net8.0\Receive.pdb
+C:\Users\Afridah\source\repos\Receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\Receive.csproj.AssemblyReference.cache
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\Receive.AssemblyInfoInputs.cache
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\Receive.AssemblyInfo.cs
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\Receive.csproj.CoreCompileInputs.cache
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\Receive.csproj.Up2Date
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\Receive.dll
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\refint\Receive.dll
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\Receive.pdb
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\Receive.genruntimeconfig.cache
+C:\Users\Afridah\source\repos\Receive\obj\Debug\net8.0\ref\Receive.dll
